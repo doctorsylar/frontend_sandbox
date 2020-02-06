@@ -1,0 +1,14 @@
+// FONTS
+@import "../fonts/Muller/stylesheet.css";
+// VARIABLES
+@import "./variables/module";
+// FUNCTIONS
+@import "./functions/module";
+// NORMALIZE
+@import "./../../node_modules/normalize.scss/normalize";
+// BASE
+@import "./base/module";
+// COMPONENTS
+@import "./components/module";
+// SEPARATED PAGES STYLES
+@import "./pages/main";
