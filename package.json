@@ -50,7 +50,11 @@
     "not dead"
   ],
   "dependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
+    "air-datepicker": "^2.2.3",
+    "inputmask": "^5.0.3",
     "jquery": "^3.4.1",
+    "jquery-nice-select": "^1.1.0",
     "normalize.scss": "^0.1.0"
   },
   "homepage": "https://github.com/doctorsylar/frontend_sandbox#readme"
