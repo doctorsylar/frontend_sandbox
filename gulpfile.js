@@ -30,12 +30,12 @@ let gulp = require('gulp'),
 
 let path = {
 	build: {
-		html: 'build/',
-		js: 'build/js/',
-		style: 'build/',
-		img: 'build/img/',
-		icons: 'build/img/icons/',
-		fonts: 'build/fonts/'
+		html: 'docs/',
+		js: 'docs/js/',
+		style: 'docs/',
+		img: 'docs/img/',
+		icons: 'docs/img/icons/',
+		fonts: 'docs/fonts/'
 	},
 	src: {
 		html: 'src/*.html',
@@ -58,7 +58,7 @@ let path = {
 let reload = browserSync.reload;
 let browserSyncConfig = {
 	server: {
-		baseDir: "./build"
+		baseDir: "./docs"
 	},
 	port: 3000,
 	open: true,
