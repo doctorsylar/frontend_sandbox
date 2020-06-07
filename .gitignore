@@ -100,6 +100,5 @@ fabric.properties
 # Custom
 .idea/
 node_modules/
-build/
 package-lock.json
 *.zip

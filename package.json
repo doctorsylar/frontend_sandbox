@@ -51,11 +51,10 @@
   ],
   "dependencies": {
     "@fancyapps/fancybox": "^3.5.7",
-    "air-datepicker": "^2.2.3",
+    "animejs": "^3.2.0",
     "inputmask": "^5.0.3",
     "jquery": "^3.4.1",
-    "jquery-nice-select": "^1.1.0",
-    "normalize.scss": "^0.1.0"
+    "reset-css": "^5.0.1"
   },
   "homepage": "https://github.com/doctorsylar/frontend_sandbox#readme"
 }
